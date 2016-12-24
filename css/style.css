@@ -13,10 +13,12 @@
 }
 
 #wrapper{
-	padding: 20%;
-	text-align: center;
-	position:relative;
-	top:-65%;
+    text-align: center;
+    position: relative;
+    top: -65%;
+    right: -25%;
+    width: 50%;
+    display: table;
 }
 
 body{
