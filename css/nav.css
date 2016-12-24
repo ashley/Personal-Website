@@ -33,10 +33,12 @@ body{
     margin:0;
 }
 
-#links{
+#gradient{
     float: right;
-    background-color: #F29999;
+    /*background-color: #F29999;*/
     width:100%;
+    height: 100%;
+    position:relative;
 }
 
 #logo{
