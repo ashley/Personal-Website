@@ -1,0 +1,11 @@
+#text-container{
+    position: relative;
+    float: right;
+    width: 90%;
+    font-family: AvenirNext-Regular
+}
+
+.project-text{
+    float:left;
+    width: 50%;
+}

@@ -1,16 +1,12 @@
 #picture{
-	max-width: 250px;
-	max-height: 250px;
-	position: relative;
-	left: 25%;
-	padding-top: 15%;
+    max-width: 250px;
+    max-height: 250px;
+    float: left;
 }
 
 #about-text{
-	position: relative;
+    position: relative;
     float: right;
-    top: 20%;
-    width: 45%;
-    margin-right: 5%;
-    font-family: AvenirNext-Regular;
+    width: 75%;
+    font-family: AvenirNext-Regular
 }
