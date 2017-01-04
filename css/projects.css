@@ -1,11 +1,31 @@
 #text-container{
-    position: relative;
-    float: right;
-    width: 90%;
-    font-family: AvenirNext-Regular
+    font-family: AvenirNext-Regular;
+    height: 100%;
+    width: 75%;
+    margin: auto;
+
 }
 
-.project-text{
-    float:left;
-    width: 50%;
+#project-text{
+    position: relative;
+    float: left;
+    width: 35%;
+}
+
+#project-text .text{
+	position: absolute;
+	bottom: -7.1%;
+	background-color: rgba(255,255,255,0.75);
+	height: 20%;
+	width: 37%;
+	opacity: 0;
+	-webkit-transition: opacity 500ms;
+	-moz-transition: opacity 500ms;
+	-o-transition: opacity 500ms;
+	transition: opacity 500ms;
+}
+
+#project-text:hover .text{
+	opacity: 1
+
 }
