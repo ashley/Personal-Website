@@ -1,0 +1,15 @@
+#text-container{
+    font-family: AvenirNext-Regular;
+    font-size: 90%;
+    width: 55%;
+    margin: 2% auto;
+}
+
+h2 {
+    font-size: 250%;
+}
+
+h3{
+    font-size: 150%;
+    margin: 0%;
+}
