@@ -1,12 +1,32 @@
 #picture{
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 30%;
+    max-height: auto;
     float: left;
 }
 
 #about-text{
     position: relative;
     float: right;
-    width: 75%;
+    vertical-align: top;
+    width: 60%;
     font-family: AvenirNext-Regular
+}
+
+#about-text h1{
+	line-height: 0%;
+}
+
+#about-text a{
+	text-decoration: none;
+	color: black;
+	font-weight: 600;
+}
+
+#about-text a:hover {
+    color:rgb(0, 153, 255);
+     transition: all 200ms ease;
+    transition-property: all;
+    transition-duration: 200ms;
+    transition-timing-function: ease;
+    transition-delay: initial;
 }

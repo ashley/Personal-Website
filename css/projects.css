@@ -1,10 +1,12 @@
-#text-container{
+#parent{
     font-family: AvenirNext-Regular;
     font-size: 90%;
     width: 55%;
     column-count: 2;
     margin: 2% auto;
-
+}
+#filter-buttons{
+    align-content: center;
 }
 
 #project-text{
@@ -47,4 +49,8 @@ a:link{
 #project-text:hover .text{
 	opacity: 0
 
+}
+
+h1{
+    font-family: AvenirNext-Regular;
 }
