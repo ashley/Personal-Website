@@ -13,3 +13,9 @@ h3{
     font-size: 150%;
     margin: 0%;
 }
+
+img{
+	height: 100px;
+	width: auto;
+	position: right;
+}
