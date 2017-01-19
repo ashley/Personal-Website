@@ -1,5 +1,9 @@
 #text-container{
-    font-family: AvenirNext-Regular;
+    font-family: Questrial;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
     font-size: 90%;
     width: 55%;
     margin: 2% auto;

@@ -1,6 +1,9 @@
 ul {
     list-style-type: none;
-    font-family: AvenirNext-Bold;
+    font-family: Questrial;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
     margin: 0;
     width: 50%;
     padding: 0;
@@ -45,9 +48,13 @@ body{
     float: left;
     width:45%;
     margin-left: 1%;
-    margin-top: 0.25%;
+    margin-top: 0.65%;
         /* AC: */
-    font-family: AvenirNext-Bold;
+    font-family: Questrial;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+
     font-size: 28px;
     color: #FFFFFF;
     text-decoration: none;
